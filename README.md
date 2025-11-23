@@ -70,6 +70,9 @@ with focus on:
 - Observability Tools
 - Escalation Rules
 
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/161dfd86-e7cf-4242-8995-7f9f43400338" />
+
+
 ## 🚀 Run Locally
 
 ```bash
